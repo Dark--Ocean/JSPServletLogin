@@ -14,6 +14,7 @@
 
 
     <h1> Welcome to login page</h1>
+<h2> this is a simple log in page</h2>
     <form action="/login" method="post">
         Login-name : <input type="text" name="loginname" width="40"/>
         Password   : <input type="password" name="password" width="40"/>

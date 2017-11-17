@@ -13,7 +13,13 @@
 <body>
 <h1> Welcome</h1>
 hi...<br>
+this is data come from login.jsp page
+<br>
+And 
+
 <p>Dear: ${username}</p>
 <p>Your password is : ${password}</p>
+</br>
+thank you.....
 </body>
 </html>
